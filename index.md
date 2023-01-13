@@ -4,8 +4,8 @@
 
 ### Category Name 1
 
-[Data visualization with Sephora data](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data visualization with Sephora data](/sephora_page)
+<img src="images/sephora_cover_page.png"/>
 
 ---
 
