@@ -3,17 +3,17 @@
 ---
 
 [Data Visualization - The Story Behind Sephora](/sephora_page)
-<img src="images/sephora_cover_page.png"/>
+<img src="images/sephora_cover_page.png" width="500" height="1000"/>
 
 ---
 
 [Photo Mosic - Art of Panda](/artofPanda_page)
-<img src="images/panda_cover_page.png" width="2400" height="1200"/>
+<img src="images/panda_cover_page.png" width="500" height="1000"/>
 
 ---
 
 [Data Visualization - IMDB 1000 movies](https://www.youtube.com/watch?v=JnYM0gnVbTU&t=28s)
-<img src="images/imdb_cover_page.png" width="2400" height="1200"/>
+<img src="images/imdb_cover_page.png" width="500" height="1000"/>
 
 ---
 
