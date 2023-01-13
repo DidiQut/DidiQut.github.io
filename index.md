@@ -8,12 +8,12 @@
 ---
 
 [Photo Mosic - Art of Panda](/artofPanda_page)
-<img src="images/panda_cover_page.png" width="150" height="70"/>
+<img src="images/panda_cover_page.png" width="2400" height="1200"/>
 
 ---
 
 [Data Visualization - IMDB 1000 movies](https://www.youtube.com/watch?v=JnYM0gnVbTU&t=28s)
-<img src="images/imdb_cover_page.png" width="150" height="70"/>
+<img src="images/imdb_cover_page.png" width="2400" height="1200"/>
 
 ---
 
