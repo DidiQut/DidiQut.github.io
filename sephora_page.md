@@ -4,7 +4,7 @@
 
 Sephora.com provides a detailed classification and feedback section for each product it sells. My dataset, which includes the product's name, category, brand, rating, love, price, and marketing flags, was obtained from Kaggle. I utilize data visualization to demonstrate the features of Sephora products.
 
-**Project website link:** https://iamzhidi.wixsite.com/website
+**Project website link:** [The story behind Sephora](https://iamzhidi.wixsite.com/website)
 
 ### 1. Simple Introduction of Sephora Dataset
 

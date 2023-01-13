@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1
-
 [Data visualization with Sephora data](/sephora_page)
 <img src="images/sephora_cover_page.png"/>
 
