@@ -9,8 +9,8 @@
 
 ---
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Photo Mosic - Art of Panda](https://www.canva.com/design/DAFTExZ_91c/OJWxk7Bs6SC5zPDljDYXcA/view?utm_content=DAFTExZ_91c&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
+<img src="images/ArtofPanda.png"/>
 
 ---
 
