@@ -1,4 +1,4 @@
-## Data visualization for Sephora product
+## Data Visualization - The Story Behind Sephora
 
 **Project description:** My project's ultimate purpose is to investigate the impact of marketing strategy and make recommendations based on pricing, ratings, and love.
 

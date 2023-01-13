@@ -2,13 +2,13 @@
 
 ---
 
-[Data visualization with Sephora data](/sephora_page)
+[Data Visualization - The Story Behind Sephora](/sephora_page)
 <img src="images/sephora_cover_page.png"/>
 
 ---
 
 [Photo Mosic - Art of Panda](https://www.canva.com/design/DAFTExZ_91c/OJWxk7Bs6SC5zPDljDYXcA/view?utm_content=DAFTExZ_91c&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
-<img src="images/ArtofPanda.png"/>
+<img src="images/panda_cover_page.png"/>
 
 ---
 
