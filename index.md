@@ -7,13 +7,13 @@
 
 ---
 
-[Photo Mosic - Art of Panda](https://www.canva.com/design/DAFTExZ_91c/OJWxk7Bs6SC5zPDljDYXcA/view?utm_content=DAFTExZ_91c&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
-<img src="images/panda_cover_page.png"/>
+[Photo Mosic - Art of Panda](/pdf/artofPanda.pdf)
+<img src="images/panda_cover_page.png" width="60%" height="30%"/>
 
 ---
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Visualization - IMDB 1000 movies](https://www.youtube.com/watch?v=JnYM0gnVbTU&t=28s)
+<img src="images/imdb_cover_page.png" width="60%" height="30%"/>
 
 ---
 
