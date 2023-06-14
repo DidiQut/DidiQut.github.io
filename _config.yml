@@ -3,5 +3,5 @@ logo: "/images/cat_logo.jpeg" # your photo (or logo) here
 description:
   > # your text below (remove <br> elements if you don't need line breaks)
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
