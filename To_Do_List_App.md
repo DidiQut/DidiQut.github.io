@@ -1,4 +1,4 @@
-## Data Visualization - The Story Behind Sephora
+## Full Stack Project - SnowPile - To Do List App
 
 **Project description:** Our team, SnowPile, has developed a web application for a to-do list. The application allows users to register and log in to use the to-do list functionality. In addition to the ability to add and delete tasks, the application also includes the ability to update and delete user accounts.
 

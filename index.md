@@ -2,8 +2,8 @@
 
 ---
 
-[Full Stack - SnowPile](/To_Do_List_App)
-<img src="images/To_do_list_cover_page" width="480" height="240"/>
+[Full Stack - SnowPile - To Do List App](/To_Do_List_App)
+<img src="images/To_do_list_cover_page.png" width="480" height="240"/>
 
 ---
 
