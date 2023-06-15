@@ -8,9 +8,9 @@ layout: default
 
 <img src="images/T2T_coverpage.png" width="480" height="240"/>
 
-<span style="font-size: 14px;">[Full Stack - SnowPile - To Do List App](/To_Do_List_App)
+<span style="font-size: 14px;">[Full Stack - SnowPile - To Do List App](/To_Do_List_App)</span>
 
-<img src="images/To_do_list_cover_page.png" width="480" height="240"/></span>
+<img src="images/To_do_list_cover_page.png" width="480" height="240"/>
 
 [Data Visualization - The Story Behind Sephora](/sephora_page)
 
