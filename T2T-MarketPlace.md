@@ -10,7 +10,7 @@ The T2T Marketplace is a secondhand trading website aimed at providing a faster 
 
 **Project Poster:**
 
-<img src="images/Presentation_T2T_final.png"/>
+<img src="images/Presentation_T2T_final.png" width="480" height="360"/>
 
 ### 1. Project Outline
 
