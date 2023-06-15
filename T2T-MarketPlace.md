@@ -1,4 +1,4 @@
-## Full Stack Project - T2T Marketplaced- Secondhand Trading Website
+## Full Stack Project - T2T Marketplace - Secondhand Trading Website
 
 **Project description:**
 
@@ -6,7 +6,7 @@ The T2T Marketplace is a secondhand trading website aimed at providing a faster 
 
 **Project Link:**
 
-[T2T Marketplaced - Secondhand Trading Website](https://t-2t-marketplace.vercel.app/home)
+[T2T Marketplace - Secondhand Trading Website](https://t-2t-marketplace.vercel.app/home)
 
 **Project Poster:**
 
