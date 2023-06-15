@@ -1,8 +1,12 @@
 ## Full Stack Project - SnowPile - To Do List App
 
-**Project description:** Our team, SnowPile, has developed a web application for a to-do list. The application allows users to register and log in to use the to-do list functionality. In addition to the ability to add and delete tasks, the application also includes the ability to update and delete user accounts.
+**Project description:**
 
-**Project website link:** [SnowPile - To Do List Application](https://www.youtube.com/watch?v=PQ6qNqVRFZY&t=17s&ab_channel=BryanReed)
+Our team, SnowPile, has developed a web application for a to-do list. The application allows users to register and log in to use the to-do list functionality. In addition to the ability to add and delete tasks, the application also includes the ability to update and delete user accounts.
+
+**Project Video Introduction:**
+
+[SnowPile - To Do List Application](https://www.youtube.com/watch?v=PQ6qNqVRFZY&t=17s&ab_channel=BryanReed)
 
 ### 1. Run Instructions
 
@@ -15,18 +19,20 @@
 
 ### 2. Dependency List
 
-"bcrypt": "^5.1.0"
-"better-sqlite3": "^8.3.0"
-"connect-sqlite3": "^0.9.13"
-"ejs": "^3.1.9"
-"express": "^4.18.2"
-"express-session": "^1.17.3"
+- "bcrypt": "^5.1.0"
+- "better-sqlite3": "^8.3.0"
+- "connect-sqlite3": "^0.9.13"
+- "ejs": "^3.1.9"
+- "express": "^4.18.2"
+- "express-session": "^1.17.3"
 
 ### 3. Documentation
 
 The documentation for this application can be found at the following:
 
-**API Endpoints:** [SnowPile - To Do List Application](https://github.com/comp426-2023-spring/a99-SnowPile/blob/main/docs/api-endpoints.md)
+**API Endpoints:**
+
+[SnowPile - To Do List Application](https://github.com/comp426-2023-spring/a99-SnowPile/blob/main/docs/api-endpoints.md)
 
 ### 4. Future Plans
 

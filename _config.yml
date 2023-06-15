@@ -1,7 +1,5 @@
-title: Lindsay Zhang # your name (or website title) here
-logo: "/images/cat_logo.jpeg" # your photo (or logo) here
-description:
-  > # your text below (remove <br> elements if you don't need line breaks)
-
+title: Zhidi Zhang # your name (or website title) here
+# logo: "/images/cat_logo.jpeg" # your photo (or logo) here
+description: This is Zhidi's Website
 theme: jekyll-theme-dinky
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
