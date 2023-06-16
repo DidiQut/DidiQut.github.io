@@ -1,3 +1,5 @@
+[Back to Home Page](../index.md)
+
 ## Photo Mosaic - Art of Panda
 
 **Project PPT:**
