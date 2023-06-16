@@ -12,7 +12,7 @@
 
 [![sephora_page](images/sephora_cover_page.png)](/sephora_page)
 
-<span style="font-size: 18px; color: blue; font-weight: bold;">[Photo Mosic - Art of Panda](/artofPanda_page)</span>
+<span style="font-size: 18px; color: blue; font-weight: bold;">[Photo Mosaic - Art of Panda](/artofPanda_page)</span>
 
 [![artofPanda_page](images/panda_cover_page.png)](/artofPanda_page)
 
