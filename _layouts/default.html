@@ -23,18 +23,11 @@
           <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
       {% endif %}
 
-        {% if site.github.is_user_page %}
-          <ul>
-            <li>
-              <a href="{{ site.github.owner_url }}" class="btn">View on GitHub</a>
-            </li>
-              <!-- <a class="buttons github" href="{{ site.github.owner_url }}" style="color: white; font-weight: bold;">GitHub Profile</a></li> -->
-            <li>
-              <a href="https://www.linkedin.com/in/zhidi-zhang/" class="btn">View on Linkedin</a>
-            </li>
-
-          </ul>
-        {% endif %}
+      {% if site.github.is_user_page %}
+        <a href="{{ site.github.owner_url }}" class="btn">View on GitHub</a>
+        <!-- <a class="buttons github" href="{{ site.github.owner_url }}" style="color: white; font-weight: bold;">GitHub Profile</a></li> -->
+        <a href="https://www.linkedin.com/in/zhidi-zhang/" class="btn">View on Linkedin</a>
+      {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
