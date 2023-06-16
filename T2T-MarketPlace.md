@@ -1,4 +1,4 @@
-[Back to Home Page](../index.md)
+[Back to Home Page](/index)
 
 ## Full Stack Project - T2T Marketplace - Secondhand Trading Website
 

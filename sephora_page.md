@@ -1,4 +1,4 @@
-[Back to Home Page](../index.md)
+[Back to Home Page](/index)
 
 ## Data Visualization - The Story Behind Sephora
 
