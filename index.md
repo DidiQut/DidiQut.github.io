@@ -4,15 +4,15 @@ layout: default
 
 # Portfolio
 
-<span style="font-size: 26px;">[Full Stack - T2T Marketplace - Secondhand Trading Website](/T2T-MarketPlace)</span>
+<span style="font-size: 18px; color: blue; font-weight: bold;">[Full Stack - T2T Marketplace - Secondhand Trading Website](/T2T-MarketPlace)</span>
 
 <img src="images/T2T_coverpage.png" width="480" height="240"/>
 
-<span style="font-size: 26px;">[Full Stack - SnowPile - To Do List App](/To_Do_List_App)</span>
+<span style="font-size: 18px; color: blue; font-weight: bold;">[Full Stack - SnowPile - To Do List App](/To_Do_List_App)</span>
 
 <img src="images/To_do_list_cover_page.png" width="480" height="240"/>
 
-<span style="font-size: 26px;">[Data Visualization - The Story Behind Sephora](/sephora_page)</span>
+<span style="font-size: 18px; color: blue; font-weight: bold;">[Data Visualization - The Story Behind Sephora](/sephora_page)</span>
 
 <img src="images/sephora_cover_page.png" width="480" height="240"/>
 
@@ -20,7 +20,7 @@ layout: default
 
 <img src="images/panda_cover_page.png" width="480" height="240"/>
 
-<span style="font-size: 26px;">[Data Visualization - IMDB 1000 movies](https://www.youtube.com/watch?v=JnYM0gnVbTU&t=28s)</span>
+<span style="font-size: 18px; color: blue; font-weight: bold;">[Data Visualization - IMDB 1000 movies](https://www.youtube.com/watch?v=JnYM0gnVbTU&t=28s)</span>
 
 <img src="images/imdb_cover_page.png" width="480" height="240"/>
 
