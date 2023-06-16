@@ -4,11 +4,11 @@ layout: default
 
 # Portfolio
 
-<span style="font-size: 14px;">[Full Stack - T2T Marketplaced- Secondhand Trading Website](/T2T-MarketPlace)</span>
+<span style="font-size: 14px;">[Full Stack - T2T Marketplace - Secondhand Trading Website](/T2T-MarketPlace)</span>
 
 <img src="images/T2T_coverpage.png" width="480" height="240"/>
 
-<span style="font-size: 14px;">[Full Stack - SnowPile - To Do List App](/To_Do_List_App)</span>
+<span style="font-size: 34px;">[Full Stack - SnowPile - To Do List App](/To_Do_List_App)</span>
 
 <img src="images/To_do_list_cover_page.png" width="480" height="240"/>
 

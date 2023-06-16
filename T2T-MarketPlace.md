@@ -9,8 +9,9 @@ The T2T Marketplace is a secondhand trading website aimed at providing a faster 
 [T2T Marketplace - Secondhand Trading Website](https://t-2t-marketplace.vercel.app/home)
 
 **Project Poster:**
+[Poster Link](/pdf/Presentation_T2T_final_pdf.pdf)
 
-<img src="images/Presentation_T2T_final.png" width="480" height="360"/>
+<img src="images/Presentation_T2T_final.png" width="720" height="540"/>
 
 ### 1. Project Outline
 
