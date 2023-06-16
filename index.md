@@ -8,27 +8,21 @@ layout: default
 
 [![T2T Cover Page](images/T2T_coverpage.png)](/T2T-MarketPlace)
 
-<!-- <img src="images/T2T_coverpage.png" width="480" height="240"/> -->
-
 <span style="font-size: 18px; color: blue; font-weight: bold;">[Full Stack - SnowPile - To Do List App](/To_Do_List_App)</span>
 
 [![To_do_list_cover_page](images/To_do_list_cover_page.png)](/To_Do_List_App)
 
-<!-- <img src="images/To_do_list_cover_page.png" width="480" height="240"/> -->
-
 <span style="font-size: 18px; color: blue; font-weight: bold;">[Data Visualization - The Story Behind Sephora](/sephora_page)</span>
 
-[![To_do_list_cover_page](images/To_do_list_cover_page.png)](/To_Do_List_App)
-<img src="images/sephora_cover_page.png" width="480" height="240"/>
+[![sephora_page](images/sephora_cover_page.png)](/sephora_page)
 
-[Photo Mosic - Art of Panda](/artofPanda_page)
+<span style="font-size: 18px; color: blue; font-weight: bold;">[Photo Mosic - Art of Panda](/artofPanda_page)</span>
+
 [![artofPanda_page](images/panda_cover_page.png)](/artofPanda_page)
-
-<!-- <img src="images/panda_cover_page.png" width="480" height="240"/> -->
 
 <span style="font-size: 18px; color: blue; font-weight: bold;">[Data Visualization - IMDB 1000 movies](https://www.youtube.com/watch?v=JnYM0gnVbTU&t=28s)</span>
 
-[![artofPanda_page](images/imdb_cover_page.png)](https://www.youtube.com/watch?v=JnYM0gnVbTU&t=28s)
+[![imdb_cover_page](images/imdb_cover_page.png)](https://www.youtube.com/watch?v=JnYM0gnVbTU&t=28s)
 
 <!-- <img src="images/imdb_cover_page.png" width="480" height="240"/> -->
 

@@ -5,11 +5,11 @@
 
 **Project Video link:** [Art of Panda Video](https://www.canva.com/design/DAFTExZ_91c/OJWxk7Bs6SC5zPDljDYXcA/view?utm_content=DAFTExZ_91c&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
 
-<img src="images/artofPanda_1.png" width="480" height="240"/>
+<img src="images/artofPanda_1.png" width="600" height="600"/>
 
-<img src="images/artofPanda_2.png" width="480" height="240"/>
+<img src="images/artofPanda_2.png" width="600" height="600"/>
 
-<img src="images/artofPanda_3.png" width="480" height="240"/>
+<img src="images/artofPanda_3.png" width="600" height="600"/>
 
 **Project description:**
 
