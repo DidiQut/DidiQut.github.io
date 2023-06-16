@@ -6,7 +6,9 @@ layout: default
 
 <span style="font-size: 18px; color: blue; font-weight: bold;">[Full Stack - T2T Marketplace - Secondhand Trading Website](/T2T-MarketPlace)</span>
 
-<img src="images/T2T_coverpage.png" width="480" height="240"/>
+[![T2T Cover Page](images/T2T_coverpage.png)](/T2T-MarketPlace)
+
+<!-- <img src="images/T2T_coverpage.png" width="480" height="240"/> -->
 
 <span style="font-size: 18px; color: blue; font-weight: bold;">[Full Stack - SnowPile - To Do List App](/To_Do_List_App)</span>
 
