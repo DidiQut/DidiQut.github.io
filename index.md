@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Portfolio
 
 <span style="font-size: 18px; color: blue; font-weight: bold;">[Full Stack - T2T Marketplace - Secondhand Trading Website](/T2T-MarketPlace)</span>
